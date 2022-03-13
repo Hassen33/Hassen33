@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hassen33
-- 👀 I’m interested in .html css javascript jquery react nodejs mysql php.
-- 🌱 I’m currently learning ... css and javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in .html css javascript jquery react nodejs + express js
+- 🌱 I’m currently learning mongo db
+- 💞️ I’m looking to collaborate on mern stack projects
 - 📫 How to reach me ...hassenbj33@gmail.com
 
 <!---
