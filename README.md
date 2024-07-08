@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hassen33
+- 👋 Hi, I’m @Hassen
 - 👀 I’m interested in .html css javascript jquery react nodejs + express js
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on mern stack projects
